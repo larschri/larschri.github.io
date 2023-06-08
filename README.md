@@ -1,2 +1,2 @@
-larschri.github.com
-===================
+larschri.github.io
+==================
